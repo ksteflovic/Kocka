@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="font_family_anton">anton</string>
+    <string name="font_family_montserrat">montserrat_bold</string>
+    <string name="font_family_pixel">pixel</string>
+    <string name="font_family_russo_one">russo_one</string>
+</resources>
